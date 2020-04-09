@@ -6,10 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
-   
     "e2e": "ng e2e",
     "commit": "git-cz",
-   
     "lint": "eslint src/**",
     "styleguide:build": "...",
     "prettier:check": "prettier --check 'src/**/*.{js,mdx}'",
